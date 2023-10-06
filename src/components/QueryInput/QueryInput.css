@@ -1,0 +1,49 @@
+.container {
+    display: grid;
+    grid-template-columns: 10% auto 10%;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    grid-column: 2/3;
+    padding: 10vh 5vw;
+}
+
+.title {
+    font-size: 3rem;
+    text-shadow: 2px 2px 10px rgb(170, 170, 170);
+    margin-bottom: 2rem;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70vw;
+    border: none;
+    margin-bottom: 3rem;
+}
+
+.box #outlined-basic {
+    width: 58vw;
+}
+
+.box button {
+    width: 100px;
+}
+
+.predefined-data-section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border: none;
+    width: 72vw;
+    margin-bottom: 5vh;
+}
+
+.dropdown-menu {
+    width: 72vw;
+    margin-top: 1rem;
+}
