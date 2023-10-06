@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Atlan Assessment Task
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📌 Technologies Used
+
+* HTML
+* CSS
+* JavaScript 
+* React.js
+* Material UI
+
+## 📌 Description
+
+Crafted the dummy application(Query Analyzer) where user can run any query of his/her choice or can select one from some predefined queries. The result of which will be added in the below displayed table. A success alert will also be displayed for the same.
+
+Following is the first view of the application:
+
+![Screenshot (22)](https://github.com/Amritanshu02/Atlan-assessment/assets/78687085/529aa3d5-da49-495e-ad5c-647bada2ef45)
 
 ## Available Scripts
 
