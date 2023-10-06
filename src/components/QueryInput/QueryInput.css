@@ -43,6 +43,19 @@
     margin-bottom: 5vh;
 }
 
+.predefined-data-section label {
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.accordion {
+    width: 72vw;
+}
+
+.demo-query {
+    margin-bottom: 1rem;
+}
+
 .dropdown-menu {
     width: 72vw;
     margin-top: 1rem;
