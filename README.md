@@ -12,9 +12,11 @@
 
 Crafted the dummy application(Query Analyzer) where user can run any query of his/her choice or can select one from some predefined queries. The result of which will be added in the below displayed table. A success alert will also be displayed for the same.
 
+Secured a notable score on Lighthouse test: 98% for performance, 100% for accessibility, 92% for using best practices and 100% for SEO.
+
 Following is the first view of the application:
 
-![Screenshot (22)](https://github.com/Amritanshu02/Atlan-assessment/assets/78687085/529aa3d5-da49-495e-ad5c-647bada2ef45)
+![Screenshot (23)](https://github.com/Amritanshu02/Atlan-assessment/assets/78687085/ff55a20d-ce79-4a1b-8fff-95a7da9924a8)
 
 ## Available Scripts
 
